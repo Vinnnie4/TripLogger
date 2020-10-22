@@ -1,0 +1,8 @@
+C:\Users\nicho\source\repos\TripLogger\TripLogger\TripLogger.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\nicho\source\repos\TripLogger\TripLogger\TripLogger.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\nicho\source\repos\TripLogger\TripLogger\TripLogger.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\nicho\source\repos\TripLogger\TripLogger\TripLogger.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\nicho\source\repos\TripLogger\TripLogger\TripLogger.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\nicho\source\repos\TripLogger\TripLogger\TripLogger.iOS\obj\iPhone\Debug\optimized\
+C:\Users\nicho\source\repos\TripLogger\TripLogger\TripLogger.iOS\obj\iPhone\Debug\TripLogger.iOS.csprojAssemblyReference.cache
+C:\Users\nicho\source\repos\TripLogger\TripLogger\TripLogger.iOS\obj\iPhone\Debug\TripLogger.iOS.csproj.CoreCompileInputs.cache

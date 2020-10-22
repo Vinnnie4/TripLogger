@@ -1,0 +1,1 @@
+C:\Users\nicho\source\repos\TripLogger\TripLogger\TripLogger\obj\Debug\netstandard2.0\TripLogger.csprojAssemblyReference.cache
